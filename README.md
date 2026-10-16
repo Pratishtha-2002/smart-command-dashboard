@@ -1,6 +1,6 @@
 # 🚀 Smart Command Dashboard
 
-A dynamic, portfolio-ready web application built completely from scratch using vanilla **HTML, CSS, and JavaScript**. This project was created independently to step away from "Tutorial Hell" and focus on core developer logic, DOM manipulation, and intent recognition.
+A dynamic, portfolio-ready web application built completely from scratch using vanilla **HTML, CSS, and JavaScript**. This project was created independently to step away and focus on core developer logic, DOM manipulation, and intent recognition.
 
 ---
 
